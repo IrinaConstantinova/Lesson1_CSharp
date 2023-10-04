@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C#\Examples\Ex3_Sum\bin\Debug\net6.0\Ex3_Sum.exe
+C:\Users\User\Desktop\C#\Examples\Ex3_Sum\bin\Debug\net6.0\Ex3_Sum.deps.json
+C:\Users\User\Desktop\C#\Examples\Ex3_Sum\bin\Debug\net6.0\Ex3_Sum.runtimeconfig.json
+C:\Users\User\Desktop\C#\Examples\Ex3_Sum\bin\Debug\net6.0\Ex3_Sum.dll
+C:\Users\User\Desktop\C#\Examples\Ex3_Sum\bin\Debug\net6.0\Ex3_Sum.pdb
+C:\Users\User\Desktop\C#\Examples\Ex3_Sum\obj\Debug\net6.0\Ex3_Sum.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\Examples\Ex3_Sum\obj\Debug\net6.0\Ex3_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\Examples\Ex3_Sum\obj\Debug\net6.0\Ex3_Sum.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\Examples\Ex3_Sum\obj\Debug\net6.0\Ex3_Sum.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\Examples\Ex3_Sum\obj\Debug\net6.0\Ex3_Sum.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\Examples\Ex3_Sum\obj\Debug\net6.0\Ex3_Sum.dll
+C:\Users\User\Desktop\C#\Examples\Ex3_Sum\obj\Debug\net6.0\refint\Ex3_Sum.dll
+C:\Users\User\Desktop\C#\Examples\Ex3_Sum\obj\Debug\net6.0\Ex3_Sum.pdb
+C:\Users\User\Desktop\C#\Examples\Ex3_Sum\obj\Debug\net6.0\Ex3_Sum.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\Examples\Ex3_Sum\obj\Debug\net6.0\ref\Ex3_Sum.dll
